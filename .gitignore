@@ -4,3 +4,4 @@
 /c2n-be/utils/http-client.env.json
 .DS_Store
 .deps
+/hardhat-pj/node_modules
