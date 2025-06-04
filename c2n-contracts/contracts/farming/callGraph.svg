@@ -1,0 +1,352 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="782pt" height="1064pt" viewBox="0.00 0.00 782.23 1064.00">
+<g id="graph0" class="graph" transform="translate(4,1059.9778683996988) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1060 778.23,-1060 778.23,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterFarmingC2N">
+
+<path fill="#445773" stroke="#445773" d="M20,-402C20,-402 557.8,-402 557.8,-402 563.8,-402 569.8,-408 569.8,-414 569.8,-414 569.8,-899 569.8,-899 569.8,-905 563.8,-911 557.8,-911 557.8,-911 20,-911 20,-911 14,-911 8,-905 8,-899 8,-899 8,-414 8,-414 8,-408 14,-402 20,-402" style=""/>
+<text text-anchor="middle" x="288.9" y="-894.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FarmingC2N</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M601.8,-518C601.8,-518 754.23,-518 754.23,-518 760.23,-518 766.23,-524 766.23,-530 766.23,-530 766.23,-637 766.23,-637 766.23,-643 760.23,-649 754.23,-649 754.23,-649 601.8,-649 601.8,-649 595.8,-649 589.8,-643 589.8,-637 589.8,-637 589.8,-530 589.8,-530 589.8,-524 595.8,-518 601.8,-518" style=""/>
+<text text-anchor="middle" x="678.02" y="-632.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_amount">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M292.72,-317C292.72,-317 338.72,-317 338.72,-317 344.72,-317 350.72,-323 350.72,-329 350.72,-329 350.72,-382 350.72,-382 350.72,-388 344.72,-394 338.72,-394 338.72,-394 292.72,-394 292.72,-394 286.72,-394 280.72,-388 280.72,-382 280.72,-382 280.72,-329 280.72,-329 280.72,-323 286.72,-317 292.72,-317" style=""/>
+<text text-anchor="middle" x="315.72" y="-377.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">_amount</text>
+</g>
+<g id="clust4" class="cluster" data-name="clustertotalRewards">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M283.72,-232C283.72,-232 348.72,-232 348.72,-232 354.72,-232 360.72,-238 360.72,-244 360.72,-244 360.72,-297 360.72,-297 360.72,-303 354.72,-309 348.72,-309 348.72,-309 283.72,-309 283.72,-309 277.72,-309 271.72,-303 271.72,-297 271.72,-297 271.72,-244 271.72,-244 271.72,-238 277.72,-232 283.72,-232" style=""/>
+<text text-anchor="middle" x="316.22" y="-292.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalRewards</text>
+</g>
+<g id="clust5" class="cluster" data-name="clustertotalAllocPoint">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M277.72,-93C277.72,-93 354.72,-93 354.72,-93 360.72,-93 366.72,-99 366.72,-105 366.72,-105 366.72,-212 366.72,-212 366.72,-218 360.72,-224 354.72,-224 354.72,-224 277.72,-224 277.72,-224 271.72,-224 265.72,-218 265.72,-212 265.72,-212 265.72,-105 265.72,-105 265.72,-99 271.72,-93 277.72,-93" style=""/>
+<text text-anchor="middle" x="316.22" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalAllocPoint</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterrewardPerSecond">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M270.72,-8C270.72,-8 360.72,-8 360.72,-8 366.72,-8 372.72,-14 372.72,-20 372.72,-20 372.72,-73 372.72,-73 372.72,-79 366.72,-85 360.72,-85 360.72,-85 270.72,-85 270.72,-85 264.72,-85 258.72,-79 258.72,-73 258.72,-73 258.72,-20 258.72,-20 258.72,-14 264.72,-8 270.72,-8" style=""/>
+<text text-anchor="middle" x="315.72" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">rewardPerSecond</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterlastTimestamp">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M641.02,-827C641.02,-827 715.02,-827 715.02,-827 721.02,-827 727.02,-833 727.02,-839 727.02,-839 727.02,-892 727.02,-892 727.02,-898 721.02,-904 715.02,-904 715.02,-904 641.02,-904 641.02,-904 635.02,-904 629.02,-898 629.02,-892 629.02,-892 629.02,-839 629.02,-839 629.02,-833 635.02,-827 641.02,-827" style=""/>
+<text text-anchor="middle" x="678.02" y="-887.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">lastTimestamp</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusternrOfSeconds">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M646.02,-742C646.02,-742 711.02,-742 711.02,-742 717.02,-742 723.02,-748 723.02,-754 723.02,-754 723.02,-807 723.02,-807 723.02,-813 717.02,-819 711.02,-819 711.02,-819 646.02,-819 646.02,-819 640.02,-819 634.02,-813 634.02,-807 634.02,-807 634.02,-754 634.02,-754 634.02,-748 640.02,-742 646.02,-742" style=""/>
+<text text-anchor="middle" x="678.52" y="-802.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">nrOfSeconds</text>
+</g>
+<g id="clust9" class="cluster" data-name="clustererc20Reward">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M645.02,-657C645.02,-657 711.02,-657 711.02,-657 717.02,-657 723.02,-663 723.02,-669 723.02,-669 723.02,-722 723.02,-722 723.02,-728 717.02,-734 711.02,-734 711.02,-734 645.02,-734 645.02,-734 639.02,-734 633.02,-728 633.02,-722 633.02,-722 633.02,-669 633.02,-669 633.02,-663 639.02,-657 645.02,-657" style=""/>
+<text text-anchor="middle" x="678.02" y="-717.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">erc20Reward</text>
+</g>
+<g id="clust10" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="35.01,-919 35.01,-1048 350.72,-1048 350.72,-919 35.01,-919" style=""/>
+<text text-anchor="middle" x="192.86" y="-1031.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- FarmingC2N.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="FarmingC2N.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.01" cy="-860" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-855.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- FarmingC2N.poolLength -->
+<g id="node2" class="node" pointer-events="visible" data-name="FarmingC2N.poolLength">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="108.01" cy="-806" rx="55.62" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-801.8" font-family="Times,serif" font-size="14.00" style="">poolLength</text>
+</g>
+<!-- FarmingC2N.fund -->
+<g id="node3" class="node" pointer-events="visible" data-name="FarmingC2N.fund">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.01" cy="-698" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-693.8" font-family="Times,serif" font-size="14.00" style="">fund</text>
+</g>
+<!-- IERC20.safeTransferFrom -->
+<g id="node16" class="node" pointer-events="visible" data-name="IERC20.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="678.02" cy="-544" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="678.02" y="-539.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- FarmingC2N.fund&#45;&gt;IERC20.safeTransferFrom -->
+<g id="edge1" class="edge" data-name="FarmingC2N.fund-&gt;IERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M138.34,-696.22C158.13,-693.52 183.55,-686.93 200.02,-671 236.38,-635.82 195.62,-593.46 236.02,-563 346.18,-479.94 519.5,-504.31 612.66,-526.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="611.78,-529.47 622.32,-528.42 613.42,-522.67 611.78,-529.47" style=""/>
+</g>
+<!-- _amount.div -->
+<g id="node18" class="node" pointer-events="visible" data-name="_amount.div">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-343" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-338.8" font-family="Times,serif" font-size="14.00" style="">div</text>
+</g>
+<!-- FarmingC2N.fund&#45;&gt;_amount.div -->
+<g id="edge2" class="edge" data-name="FarmingC2N.fund-&gt;_amount.div">
+
+<path fill="none" stroke="white" stroke-width="2" d="M138.47,-697.25C158.85,-695.07 184.93,-688.67 200.02,-671 279.49,-577.93 172.47,-502.59 236.02,-398 246.32,-381.03 264.08,-367.95 280.11,-358.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="281.49,-362.04 288.68,-354.27 278.21,-355.86 281.49,-362.04" style=""/>
+</g>
+<!-- totalRewards.add -->
+<g id="node19" class="node" pointer-events="visible" data-name="totalRewards.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-258" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-253.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- FarmingC2N.fund&#45;&gt;totalRewards.add -->
+<g id="edge3" class="edge" data-name="FarmingC2N.fund-&gt;totalRewards.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M138.2,-697.43C158.73,-695.36 185.1,-689.03 200.02,-671 250.99,-609.4 195.56,-381.97 236.02,-313 246.06,-295.88 263.79,-282.78 279.89,-273.67" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="281.27,-276.9 288.5,-269.15 278.02,-270.7 281.27,-276.9" style=""/>
+</g>
+<!-- FarmingC2N.add -->
+<g id="node4" class="node" pointer-events="visible" data-name="FarmingC2N.add">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.01" cy="-752" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-747.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- FarmingC2N.massUpdatePools -->
+<g id="node9" class="node" pointer-events="visible" data-name="FarmingC2N.massUpdatePools">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-752" rx="79.91" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-747.8" font-family="Times,serif" font-size="14.00" style="">massUpdatePools</text>
+</g>
+<!-- FarmingC2N.add&#45;&gt;FarmingC2N.massUpdatePools -->
+<g id="edge4" class="edge" data-name="FarmingC2N.add-&gt;FarmingC2N.massUpdatePools">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M136.32,-752C158.32,-752 190.59,-752 221.66,-752" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="221.38,-755.5 231.38,-752 221.38,-748.5 221.38,-755.5" style=""/>
+</g>
+<!-- totalAllocPoint.add -->
+<g id="node20" class="node" pointer-events="visible" data-name="totalAllocPoint.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-173" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-168.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- FarmingC2N.add&#45;&gt;totalAllocPoint.add -->
+<g id="edge5" class="edge" data-name="FarmingC2N.add-&gt;totalAllocPoint.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M136.2,-751.75C157.08,-749.98 184.83,-743.88 200.02,-725 269.42,-638.71 181.32,-324.28 236.02,-228 245.82,-210.74 263.54,-197.63 279.68,-188.55" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="281.08,-191.77 288.34,-184.05 277.85,-185.56 281.08,-191.77" style=""/>
+</g>
+<!-- FarmingC2N.set -->
+<g id="node5" class="node" pointer-events="visible" data-name="FarmingC2N.set">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.01" cy="-644" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-639.8" font-family="Times,serif" font-size="14.00" style="">set</text>
+</g>
+<!-- FarmingC2N.set&#45;&gt;FarmingC2N.massUpdatePools -->
+<g id="edge6" class="edge" data-name="FarmingC2N.set-&gt;FarmingC2N.massUpdatePools">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M135.87,-647.03C155.24,-650.32 181.18,-657.11 200.02,-671 223.23,-688.12 213.17,-707.39 236.02,-725 239.56,-727.73 243.39,-730.19 247.39,-732.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="245.78,-735.52 256.31,-736.74 248.84,-729.22 245.78,-735.52" style=""/>
+</g>
+<!-- totalAllocPoint.sub -->
+<g id="node21" class="node" pointer-events="visible" data-name="totalAllocPoint.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-119" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-114.8" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- FarmingC2N.set&#45;&gt;totalAllocPoint.sub -->
+<g id="edge7" class="edge" data-name="FarmingC2N.set-&gt;totalAllocPoint.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M136.18,-643.73C157.05,-641.95 184.79,-635.85 200.02,-617 265.97,-535.33 171.8,-229.04 236.02,-146 245.45,-133.8 260.7,-127.08 275.27,-123.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="275.67,-126.88 284.78,-121.47 274.28,-120.02 275.67,-126.88" style=""/>
+</g>
+<!-- FarmingC2N.deposited -->
+<g id="node6" class="node" pointer-events="visible" data-name="FarmingC2N.deposited">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="108.01" cy="-590" rx="48.09" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-585.8" font-family="Times,serif" font-size="14.00" style="">deposited</text>
+</g>
+<!-- FarmingC2N.pending -->
+<g id="node7" class="node" pointer-events="visible" data-name="FarmingC2N.pending">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="108.01" cy="-536" rx="42.3" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-531.8" font-family="Times,serif" font-size="14.00" style="">pending</text>
+</g>
+<!-- FarmingC2N.totalPending -->
+<g id="node8" class="node" pointer-events="visible" data-name="FarmingC2N.totalPending">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="108.01" cy="-482" rx="59.71" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-477.8" font-family="Times,serif" font-size="14.00" style="">totalPending</text>
+</g>
+<!-- rewardPerSecond.mul -->
+<g id="node22" class="node" pointer-events="visible" data-name="rewardPerSecond.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.72" cy="-34" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-29.8" font-family="Times,serif" font-size="14.00" style="">mul</text>
+</g>
+<!-- FarmingC2N.totalPending&#45;&gt;rewardPerSecond.mul -->
+<g id="edge8" class="edge" data-name="FarmingC2N.totalPending-&gt;rewardPerSecond.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M166.06,-475.98C178.98,-471.94 191.41,-465.42 200.02,-455 252.05,-391.98 194.74,-159.54 236.02,-89 246.04,-71.87 263.77,-58.77 279.87,-49.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="281.26,-52.89 288.49,-45.14 278.01,-46.69 281.26,-52.89" style=""/>
+</g>
+<!-- FarmingC2N.updatePool -->
+<g id="node10" class="node" pointer-events="visible" data-name="FarmingC2N.updatePool">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="496.61" cy="-698" rx="54.48" ry="18" style=""/>
+<text text-anchor="middle" x="496.61" y="-693.8" font-family="Times,serif" font-size="14.00" style="">updatePool</text>
+</g>
+<!-- FarmingC2N.massUpdatePools&#45;&gt;FarmingC2N.updatePool -->
+<g id="edge9" class="edge" data-name="FarmingC2N.massUpdatePools-&gt;FarmingC2N.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M366.55,-736.96C389.86,-729.92 417.67,-721.53 441.5,-714.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="442.45,-717.7 451.01,-711.46 440.42,-711 442.45,-717.7" style=""/>
+</g>
+<!-- lastTimestamp.sub -->
+<g id="node23" class="node" pointer-events="visible" data-name="lastTimestamp.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="678.02" cy="-853" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="678.02" y="-848.8" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- FarmingC2N.updatePool&#45;&gt;lastTimestamp.sub -->
+<g id="edge10" class="edge" data-name="FarmingC2N.updatePool-&gt;lastTimestamp.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M506.82,-716.91C520.99,-744.15 550.68,-794.27 589.8,-823 604.06,-833.47 622.25,-840.49 638.33,-845.09" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="637.16,-848.4 647.72,-847.52 638.92,-841.62 637.16,-848.4" style=""/>
+</g>
+<!-- nrOfSeconds.mul -->
+<g id="node24" class="node" pointer-events="visible" data-name="nrOfSeconds.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="678.02" cy="-768" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="678.02" y="-763.8" font-family="Times,serif" font-size="14.00" style="">mul</text>
+</g>
+<!-- FarmingC2N.updatePool&#45;&gt;nrOfSeconds.mul -->
+<g id="edge11" class="edge" data-name="FarmingC2N.updatePool-&gt;nrOfSeconds.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M531.07,-713.26C548.45,-721.01 570.12,-730.36 589.8,-738 606.29,-744.4 624.79,-750.87 640.49,-756.14" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="638.93,-759.31 649.52,-759.15 641.14,-752.67 638.93,-759.31" style=""/>
+</g>
+<!-- erc20Reward.mul -->
+<g id="node25" class="node" pointer-events="visible" data-name="erc20Reward.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="678.02" cy="-683" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="678.02" y="-678.8" font-family="Times,serif" font-size="14.00" style="">mul</text>
+</g>
+<!-- FarmingC2N.updatePool&#45;&gt;erc20Reward.mul -->
+<g id="edge12" class="edge" data-name="FarmingC2N.updatePool-&gt;erc20Reward.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M550.95,-693.54C578.62,-691.23 611.84,-688.45 637.23,-686.33" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="637.4,-689.82 647.07,-685.5 636.81,-682.85 637.4,-689.82" style=""/>
+</g>
+<!-- FarmingC2N.deposit -->
+<g id="node11" class="node" pointer-events="visible" data-name="FarmingC2N.deposit">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="315.72" cy="-590" rx="38.86" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-585.8" font-family="Times,serif" font-size="14.00" style="">deposit</text>
+</g>
+<!-- FarmingC2N.deposit&#45;&gt;FarmingC2N.updatePool -->
+<g id="edge13" class="edge" data-name="FarmingC2N.deposit-&gt;FarmingC2N.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M351.65,-598.86C365.77,-603.22 381.89,-609.24 395.43,-617 413.74,-627.5 415.09,-634.62 431.43,-648 441.4,-656.17 452.42,-664.87 462.48,-672.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="460.08,-675.25 470.13,-678.6 464.36,-669.72 460.08,-675.25" style=""/>
+</g>
+<!-- FarmingC2N.erc20Transfer -->
+<g id="node15" class="node" pointer-events="visible" data-name="FarmingC2N.erc20Transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="496.61" cy="-621" rx="65.37" ry="18" style=""/>
+<text text-anchor="middle" x="496.61" y="-616.8" font-family="Times,serif" font-size="14.00" style="">erc20Transfer</text>
+</g>
+<!-- FarmingC2N.deposit&#45;&gt;FarmingC2N.erc20Transfer -->
+<g id="edge14" class="edge" data-name="FarmingC2N.deposit-&gt;FarmingC2N.erc20Transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M353.79,-596.42C374.79,-600.06 401.74,-604.73 426.5,-609.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="425.77,-612.45 436.22,-610.71 426.97,-605.55 425.77,-612.45" style=""/>
+</g>
+<!-- FarmingC2N.withdraw -->
+<g id="node12" class="node" pointer-events="visible" data-name="FarmingC2N.withdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="315.72" cy="-698" rx="47.52" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-693.8" font-family="Times,serif" font-size="14.00" style="">withdraw</text>
+</g>
+<!-- FarmingC2N.withdraw&#45;&gt;FarmingC2N.updatePool -->
+<g id="edge15" class="edge" data-name="FarmingC2N.withdraw-&gt;FarmingC2N.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M364.66,-698C384.12,-698 406.94,-698 428.03,-698" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.87,-701.5 437.87,-698 427.87,-694.5 427.87,-701.5" style=""/>
+</g>
+<!-- FarmingC2N.withdraw&#45;&gt;FarmingC2N.erc20Transfer -->
+<g id="edge16" class="edge" data-name="FarmingC2N.withdraw-&gt;FarmingC2N.erc20Transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M354.33,-686.23C367.48,-681.82 382.24,-676.53 395.43,-671 414.75,-662.91 435.56,-652.77 453.18,-643.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="454.57,-646.96 461.84,-639.24 451.35,-640.74 454.57,-646.96" style=""/>
+</g>
+<!-- FarmingC2N.claim -->
+<g id="node13" class="node" pointer-events="visible" data-name="FarmingC2N.claim">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="315.72" cy="-644" rx="32.47" ry="18" style=""/>
+<text text-anchor="middle" x="315.72" y="-639.8" font-family="Times,serif" font-size="14.00" style="">claim</text>
+</g>
+<!-- FarmingC2N.claim&#45;&gt;FarmingC2N.updatePool -->
+<g id="edge17" class="edge" data-name="FarmingC2N.claim-&gt;FarmingC2N.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M345.86,-652.8C371.82,-660.63 410.46,-672.3 441.99,-681.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="440.64,-685.06 451.23,-684.6 442.67,-678.36 440.64,-685.06" style=""/>
+</g>
+<!-- FarmingC2N.claim&#45;&gt;FarmingC2N.erc20Transfer -->
+<g id="edge18" class="edge" data-name="FarmingC2N.claim-&gt;FarmingC2N.erc20Transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M348.7,-639.89C369.25,-637.25 396.82,-633.7 422.52,-630.4" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="422.86,-633.88 432.34,-629.14 421.97,-626.94 422.86,-633.88" style=""/>
+</g>
+<!-- FarmingC2N.emergencyWithdraw -->
+<g id="node14" class="node" pointer-events="visible" data-name="FarmingC2N.emergencyWithdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.01" cy="-428" rx="92.02" ry="18" style=""/>
+<text text-anchor="middle" x="108.01" y="-423.8" font-family="Times,serif" font-size="14.00" style="">emergencyWithdraw</text>
+</g>
+<!-- IERC20.transfer -->
+<g id="node17" class="node" pointer-events="visible" data-name="IERC20.transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="678.02" cy="-598" rx="40.55" ry="18" style=""/>
+<text text-anchor="middle" x="678.02" y="-593.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- FarmingC2N.erc20Transfer&#45;&gt;IERC20.transfer -->
+<g id="edge19" class="edge" data-name="FarmingC2N.erc20Transfer-&gt;IERC20.transfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M557.85,-613.28C579.5,-610.5 603.72,-607.4 624.64,-604.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="625.05,-608.19 634.52,-603.45 624.16,-601.25 625.05,-608.19" style=""/>
+</g>
+<!-- key -->
+<g id="node26" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="173.01,-1015 43.01,-1015 43.01,-927 173.01,-927 173.01,-1015" style=""/>
+<text text-anchor="start" x="92.65" y="-996.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="88.76" y="-976.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="66.21" y="-956.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="52.61" y="-936.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node27" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="342.72,-1015 288.72,-1015 288.72,-927 342.72,-927 342.72,-1015" style=""/>
+<text text-anchor="start" x="305.72" y="-996.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="305.72" y="-976.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="303.72,-951 303.72,-971 328.72,-971 328.72,-951 303.72,-951" style=""/>
+<text text-anchor="start" x="305.72" y="-956.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="305.72,-933 305.72,-949 326.72,-949 326.72,-933 305.72,-933" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge20" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M166.01,-1001C222.26,-1001 239.45,-1001 289.91,-1001" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.69,-1004.5 299.69,-1001 289.69,-997.5 289.69,-1004.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M166.01,-981C222.26,-981 239.45,-981 289.91,-981" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="289.69,-984.5 299.69,-981 289.69,-977.5 289.69,-984.5" style=""/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,459 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1071pt" height="1720pt" viewBox="0.00 0.00 1070.86 1720.00">
+<g id="graph0" class="graph" transform="translate(8.929225435799182,1372.1750313760497) scale(0.7860962031966741)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1716 1066.86,-1716 1066.86,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterC2NSale">
+
+<path fill="#445773" stroke="#445773" d="M20,-178C20,-178 782.02,-178 782.02,-178 788.02,-178 794.02,-184 794.02,-190 794.02,-190 794.02,-1555 794.02,-1555 794.02,-1561 788.02,-1567 782.02,-1567 782.02,-1567 20,-1567 20,-1567 14,-1567 8,-1561 8,-1555 8,-1555 8,-190 8,-190 8,-184 14,-178 20,-178" style=""/>
+<text text-anchor="middle" x="401.01" y="-1550.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">C2NSale</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIAdmin">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M648.33,-93C648.33,-93 728.93,-93 728.93,-93 734.93,-93 740.93,-99 740.93,-105 740.93,-105 740.93,-158 740.93,-158 740.93,-164 734.93,-170 728.93,-170 728.93,-170 648.33,-170 648.33,-170 642.33,-170 636.33,-164 636.33,-158 636.33,-158 636.33,-105 636.33,-105 636.33,-99 642.33,-93 648.33,-93" style=""/>
+<text text-anchor="middle" x="688.63" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IAdmin</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterIAllocationStaking">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M340.33,-93C340.33,-93 530.33,-93 530.33,-93 536.33,-93 542.33,-99 542.33,-105 542.33,-105 542.33,-158 542.33,-158 542.33,-164 536.33,-170 530.33,-170 530.33,-170 340.33,-170 340.33,-170 334.33,-170 328.33,-164 328.33,-158 328.33,-158 328.33,-105 328.33,-105 328.33,-99 334.33,-93 340.33,-93" style=""/>
+<text text-anchor="middle" x="435.33" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IAllocationStaking</text>
+</g>
+<g id="clust4" class="cluster" data-name="clustertotalToWithdraw">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M391.33,-8C391.33,-8 479.33,-8 479.33,-8 485.33,-8 491.33,-14 491.33,-20 491.33,-20 491.33,-73 491.33,-73 491.33,-79 485.33,-85 479.33,-85 479.33,-85 391.33,-85 391.33,-85 385.33,-85 379.33,-79 379.33,-73 379.33,-73 379.33,-20 379.33,-20 379.33,-14 385.33,-8 391.33,-8" style=""/>
+<text text-anchor="middle" x="435.33" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalToWithdraw</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterhash">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M826.02,-726C826.02,-726 1042.86,-726 1042.86,-726 1048.86,-726 1054.86,-732 1054.86,-738 1054.86,-738 1054.86,-791 1054.86,-791 1054.86,-797 1048.86,-803 1042.86,-803 1042.86,-803 826.02,-803 826.02,-803 820.02,-803 814.02,-797 814.02,-791 814.02,-791 814.02,-738 814.02,-738 814.02,-732 820.02,-726 826.02,-726" style=""/>
+<text text-anchor="middle" x="934.44" y="-786.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">hash</text>
+</g>
+<g id="clust6" class="cluster" data-name="clustermessageHash">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M898.46,-577C898.46,-577 970.43,-577 970.43,-577 976.43,-577 982.43,-583 982.43,-589 982.43,-589 982.43,-642 982.43,-642 982.43,-648 976.43,-654 970.43,-654 970.43,-654 898.46,-654 898.46,-654 892.46,-654 886.46,-648 886.46,-642 886.46,-642 886.46,-589 886.46,-589 886.46,-583 892.46,-577 898.46,-577" style=""/>
+<text text-anchor="middle" x="934.44" y="-637.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">messageHash</text>
+</g>
+<g id="clust7" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="74.71,-1575 74.71,-1704 470.33,-1704 470.33,-1575 74.71,-1575" style=""/>
+<text text-anchor="middle" x="272.52" y="-1687.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- C2NSale.onlySaleOwner -->
+<g id="node1" class="node" pointer-events="visible" data-name="C2NSale.onlySaleOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="224.65,-1504.54 224.65,-1519.46 179.58,-1530 115.84,-1530 70.77,-1519.46 70.77,-1504.54 115.84,-1494 179.58,-1494 224.65,-1504.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="228.65,-1501.37 228.65,-1522.63 180.04,-1534 115.38,-1534 66.77,-1522.63 66.77,-1501.37 115.38,-1490 180.04,-1490 228.65,-1501.37" style=""/>
+<text text-anchor="middle" x="147.71" y="-1507.8" font-family="Times,serif" font-size="14.00" style="">onlySaleOwner</text>
+</g>
+<!-- C2NSale.onlyAdmin -->
+<g id="node2" class="node" pointer-events="visible" data-name="C2NSale.onlyAdmin">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="207.34,-524.54 207.34,-539.46 172.41,-550 123.01,-550 88.09,-539.46 88.09,-524.54 123.01,-514 172.41,-514 207.34,-524.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="211.34,-521.57 211.34,-542.43 173,-554 122.42,-554 84.08,-542.43 84.08,-521.57 122.42,-510 173,-510 211.34,-521.57" style=""/>
+<text text-anchor="middle" x="147.71" y="-527.8" font-family="Times,serif" font-size="14.00" style="">onlyAdmin</text>
+</g>
+<!-- IAdmin.isAdmin -->
+<g id="node37" class="node" pointer-events="visible" data-name="IAdmin.isAdmin">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="688.63" cy="-119" rx="44.11" ry="18" style=""/>
+<text text-anchor="middle" x="688.63" y="-114.8" font-family="Times,serif" font-size="14.00" style="">isAdmin</text>
+</g>
+<!-- C2NSale.onlyAdmin&#45;&gt;IAdmin.isAdmin -->
+<g id="edge1" class="edge" data-name="C2NSale.onlyAdmin-&gt;IAdmin.isAdmin">
+
+<path fill="none" stroke="white" stroke-width="2" d="M212.63,-524.43C234.82,-519.88 259.19,-512.61 279.42,-501 301.19,-488.51 571.47,-189.47 591.24,-174 608.21,-160.72 628.75,-148.55 646.51,-139.05" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="648.05,-142.19 655.3,-134.46 644.82,-135.98 648.05,-142.19" style=""/>
+</g>
+<!-- C2NSale.&lt;Constructor&gt; -->
+<g id="node3" class="node" pointer-events="visible" data-name="C2NSale.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-1454" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1449.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- C2NSale.IAdmin -->
+<g id="node32" class="node" pointer-events="visible" data-name="C2NSale.IAdmin">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-1454" rx="41.16" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-1449.8" font-family="Times,serif" font-size="14.00" style="">IAdmin</text>
+</g>
+<!-- C2NSale.&lt;Constructor&gt;&#45;&gt;C2NSale.IAdmin -->
+<g id="edge2" class="edge" data-name="C2NSale.&lt;Constructor&gt;-&gt;C2NSale.IAdmin">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.76,-1454C266.73,-1454 333.7,-1454 380.08,-1454" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="379.85,-1457.5 389.85,-1454 379.85,-1450.5 379.85,-1457.5" style=""/>
+</g>
+<!-- C2NSale.ISalesFactory -->
+<g id="node33" class="node" pointer-events="visible" data-name="C2NSale.ISalesFactory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-1508" rx="64.27" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-1503.8" font-family="Times,serif" font-size="14.00" style="">ISalesFactory</text>
+</g>
+<!-- C2NSale.&lt;Constructor&gt;&#45;&gt;C2NSale.ISalesFactory -->
+<g id="edge3" class="edge" data-name="C2NSale.&lt;Constructor&gt;-&gt;C2NSale.ISalesFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.14,-1464.67C251.7,-1473.47 317.89,-1485.99 367.17,-1495.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="366.5,-1498.74 376.98,-1497.16 367.81,-1491.86 366.5,-1498.74" style=""/>
+</g>
+<!-- C2NSale.IAllocationStaking -->
+<g id="node34" class="node" pointer-events="visible" data-name="C2NSale.IAllocationStaking">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-1400" rx="84.55" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-1395.8" font-family="Times,serif" font-size="14.00" style="">IAllocationStaking</text>
+</g>
+<!-- C2NSale.&lt;Constructor&gt;&#45;&gt;C2NSale.IAllocationStaking -->
+<g id="edge4" class="edge" data-name="C2NSale.&lt;Constructor&gt;-&gt;C2NSale.IAllocationStaking">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.14,-1443.33C248.42,-1435.15 308.65,-1423.76 356.51,-1414.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="356.87,-1418.21 366.05,-1412.91 355.57,-1411.33 356.87,-1418.21" style=""/>
+</g>
+<!-- C2NSale.setVestingParams -->
+<g id="node4" class="node" pointer-events="visible" data-name="C2NSale.setVestingParams">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1346" rx="80.47" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1341.8" font-family="Times,serif" font-size="14.00" style="">setVestingParams</text>
+</g>
+<!-- C2NSale.shiftVestingUnlockingTimes -->
+<g id="node5" class="node" pointer-events="visible" data-name="C2NSale.shiftVestingUnlockingTimes">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1292" rx="123.3" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1287.8" font-family="Times,serif" font-size="14.00" style="">shiftVestingUnlockingTimes</text>
+</g>
+<!-- C2NSale.setSaleParams -->
+<g id="node6" class="node" pointer-events="visible" data-name="C2NSale.setSaleParams">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1400" rx="66.64" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1395.8" font-family="Times,serif" font-size="14.00" style="">setSaleParams</text>
+</g>
+<!-- C2NSale.IERC20 -->
+<g id="node35" class="node" pointer-events="visible" data-name="C2NSale.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-1292" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-1287.8" font-family="Times,serif" font-size="14.00" style="">IERC20</text>
+</g>
+<!-- C2NSale.setSaleParams&#45;&gt;C2NSale.IERC20 -->
+<g id="edge5" class="edge" data-name="C2NSale.setSaleParams-&gt;C2NSale.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M208.55,-1391.25C231.14,-1387.02 256.83,-1381.06 279.42,-1373 322.25,-1357.72 368.02,-1332.57 398.61,-1314.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="400.21,-1317.47 406.96,-1309.3 396.59,-1311.47 400.21,-1317.47" style=""/>
+</g>
+<!-- C2NSale.setSaleToken -->
+<g id="node7" class="node" pointer-events="visible" data-name="C2NSale.setSaleToken">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1238" rx="63.12" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1233.8" font-family="Times,serif" font-size="14.00" style="">setSaleToken</text>
+</g>
+<!-- C2NSale.setSaleToken&#45;&gt;C2NSale.IERC20 -->
+<g id="edge6" class="edge" data-name="C2NSale.setSaleToken-&gt;C2NSale.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M202.43,-1248.16C253.87,-1257.88 330.97,-1272.46 381.95,-1282.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="381.19,-1285.51 391.66,-1283.93 382.49,-1278.64 381.19,-1285.51" style=""/>
+</g>
+<!-- C2NSale.setRegistrationTime -->
+<g id="node8" class="node" pointer-events="visible" data-name="C2NSale.setRegistrationTime">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1130" rx="89.2" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1125.8" font-family="Times,serif" font-size="14.00" style="">setRegistrationTime</text>
+</g>
+<!-- C2NSale.setSaleStart -->
+<g id="node9" class="node" pointer-events="visible" data-name="C2NSale.setSaleStart">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1076" rx="56.76" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1071.8" font-family="Times,serif" font-size="14.00" style="">setSaleStart</text>
+</g>
+<!-- C2NSale.registerForSale -->
+<g id="node10" class="node" pointer-events="visible" data-name="C2NSale.registerForSale">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-474" rx="70.07" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-469.8" font-family="Times,serif" font-size="14.00" style="">registerForSale</text>
+</g>
+<!-- C2NSale.checkRegistrationSignature -->
+<g id="node25" class="node" pointer-events="visible" data-name="C2NSale.checkRegistrationSignature">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-496" rx="117.54" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-491.8" font-family="Times,serif" font-size="14.00" style="">checkRegistrationSignature</text>
+</g>
+<!-- C2NSale.registerForSale&#45;&gt;C2NSale.checkRegistrationSignature -->
+<g id="edge7" class="edge" data-name="C2NSale.registerForSale-&gt;C2NSale.checkRegistrationSignature">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.4,-479.21C245.8,-481.48 281.14,-484.2 314.72,-486.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="314.23,-490.26 324.47,-487.54 314.77,-483.28 314.23,-490.26" style=""/>
+</g>
+<!-- IAllocationStaking.setTokensUnlockTime -->
+<g id="node38" class="node" pointer-events="visible" data-name="IAllocationStaking.setTokensUnlockTime">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-119" rx="99" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-114.8" font-family="Times,serif" font-size="14.00" style="">setTokensUnlockTime</text>
+</g>
+<!-- C2NSale.registerForSale&#45;&gt;IAllocationStaking.setTokensUnlockTime -->
+<g id="edge8" class="edge" data-name="C2NSale.registerForSale-&gt;IAllocationStaking.setTokensUnlockTime">
+
+<path fill="none" stroke="white" stroke-width="2" d="M218.95,-474.84C241.18,-471.48 263.96,-463.63 279.42,-447 362.76,-357.38 242.89,-272.58 315.42,-174 326.81,-158.52 343.64,-147.27 361.07,-139.14" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="362.25,-142.44 370.08,-135.3 359.51,-136 362.25,-142.44" style=""/>
+</g>
+<!-- C2NSale.updateTokenPriceInETH -->
+<g id="node11" class="node" pointer-events="visible" data-name="C2NSale.updateTokenPriceInETH">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-968" rx="108.21" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-963.8" font-family="Times,serif" font-size="14.00" style="">updateTokenPriceInETH</text>
+</g>
+<!-- C2NSale.postponeSale -->
+<g id="node12" class="node" pointer-events="visible" data-name="C2NSale.postponeSale">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-914" rx="62.56" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-909.8" font-family="Times,serif" font-size="14.00" style="">postponeSale</text>
+</g>
+<!-- C2NSale.extendRegistrationPeriod -->
+<g id="node13" class="node" pointer-events="visible" data-name="C2NSale.extendRegistrationPeriod">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-860" rx="109.39" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-855.8" font-family="Times,serif" font-size="14.00" style="">extendRegistrationPeriod</text>
+</g>
+<!-- C2NSale.setCap -->
+<g id="node14" class="node" pointer-events="visible" data-name="C2NSale.setCap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-806" rx="37.14" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-801.8" font-family="Times,serif" font-size="14.00" style="">setCap</text>
+</g>
+<!-- C2NSale.depositTokens -->
+<g id="node15" class="node" pointer-events="visible" data-name="C2NSale.depositTokens">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-752" rx="67.22" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-747.8" font-family="Times,serif" font-size="14.00" style="">depositTokens</text>
+</g>
+<!-- C2NSale.participate -->
+<g id="node16" class="node" pointer-events="visible" data-name="C2NSale.participate">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="147.71" cy="-1184" rx="51.57" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1179.8" font-family="Times,serif" font-size="14.00" style="">participate</text>
+</g>
+<!-- C2NSale.checkParticipationSignature -->
+<g id="node26" class="node" pointer-events="visible" data-name="C2NSale.checkParticipationSignature">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-1049" rx="119.82" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-1044.8" font-family="Times,serif" font-size="14.00" style="">checkParticipationSignature</text>
+</g>
+<!-- C2NSale.participate&#45;&gt;C2NSale.checkParticipationSignature -->
+<g id="edge9" class="edge" data-name="C2NSale.participate-&gt;C2NSale.checkParticipationSignature">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.56,-1178.54C223.56,-1174.61 253.88,-1167.99 279.42,-1157 326.57,-1136.72 373.98,-1100.86 403.7,-1076.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="405.78,-1078.88 411.14,-1069.74 401.25,-1073.54 405.78,-1078.88" style=""/>
+</g>
+<!-- C2NSale.IERC20Metadata -->
+<g id="node36" class="node" pointer-events="visible" data-name="C2NSale.IERC20Metadata">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-995" rx="78.73" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-990.8" font-family="Times,serif" font-size="14.00" style="">IERC20Metadata</text>
+</g>
+<!-- C2NSale.participate&#45;&gt;C2NSale.IERC20Metadata -->
+<g id="edge10" class="edge" data-name="C2NSale.participate-&gt;C2NSale.IERC20Metadata">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M200.47,-1185.61C227.21,-1183.68 258.53,-1176.73 279.42,-1157 324.56,-1114.36 270.7,-1065.08 315.42,-1022 323.93,-1013.8 334.38,-1007.9 345.52,-1003.67" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="346.49,-1007.04 354.94,-1000.64 344.35,-1000.37 346.49,-1007.04" style=""/>
+</g>
+<!-- C2NSale.withdrawTokens -->
+<g id="node17" class="node" pointer-events="visible" data-name="C2NSale.withdrawTokens">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-644" rx="75.88" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-639.8" font-family="Times,serif" font-size="14.00" style="">withdrawTokens</text>
+</g>
+<!-- C2NSale.withdrawMultiplePortions -->
+<g id="node18" class="node" pointer-events="visible" data-name="C2NSale.withdrawMultiplePortions">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-420" rx="112.93" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-415.8" font-family="Times,serif" font-size="14.00" style="">withdrawMultiplePortions</text>
+</g>
+<!-- totalToWithdraw.add -->
+<g id="node39" class="node" pointer-events="visible" data-name="totalToWithdraw.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-34" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-29.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- C2NSale.withdrawMultiplePortions&#45;&gt;totalToWithdraw.add -->
+<g id="edge11" class="edge" data-name="C2NSale.withdrawMultiplePortions-&gt;totalToWithdraw.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M251.83,-412C262.22,-407.52 271.74,-401.37 279.42,-393 371.41,-292.76 235.52,-199.12 315.42,-89 334.25,-63.05 368.39,-49.01 395.27,-41.62" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="395.99,-45.05 404.85,-39.24 394.3,-38.26 395.99,-45.05" style=""/>
+</g>
+<!-- C2NSale.safeTransferETH -->
+<g id="node19" class="node" pointer-events="visible" data-name="C2NSale.safeTransferETH">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="688.63" cy="-675" rx="78.12" ry="18" style=""/>
+<text text-anchor="middle" x="688.63" y="-670.8" font-family="Times,serif" font-size="14.00" style="">safeTransferETH</text>
+</g>
+<!-- C2NSale.withdrawEarningsAndLeftover -->
+<g id="node20" class="node" pointer-events="visible" data-name="C2NSale.withdrawEarningsAndLeftover">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-698" rx="131.92" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-693.8" font-family="Times,serif" font-size="14.00" style="">withdrawEarningsAndLeftover</text>
+</g>
+<!-- C2NSale.withdrawEarningsInternal -->
+<g id="node23" class="node" pointer-events="visible" data-name="C2NSale.withdrawEarningsInternal">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-698" rx="111.73" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-693.8" font-family="Times,serif" font-size="14.00" style="">withdrawEarningsInternal</text>
+</g>
+<!-- C2NSale.withdrawEarningsAndLeftover&#45;&gt;C2NSale.withdrawEarningsInternal -->
+<g id="edge12" class="edge" data-name="C2NSale.withdrawEarningsAndLeftover-&gt;C2NSale.withdrawEarningsInternal">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M281.07,-698C290.6,-698 300.19,-698 309.68,-698" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="309.5,-701.5 319.5,-698 309.5,-694.5 309.5,-701.5" style=""/>
+</g>
+<!-- C2NSale.withdrawLeftoverInternal -->
+<g id="node24" class="node" pointer-events="visible" data-name="C2NSale.withdrawLeftoverInternal">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="435.33" cy="-617" rx="110.56" ry="18" style=""/>
+<text text-anchor="middle" x="435.33" y="-612.8" font-family="Times,serif" font-size="14.00" style="">withdrawLeftoverInternal</text>
+</g>
+<!-- C2NSale.withdrawEarningsAndLeftover&#45;&gt;C2NSale.withdrawLeftoverInternal -->
+<g id="edge13" class="edge" data-name="C2NSale.withdrawEarningsAndLeftover-&gt;C2NSale.withdrawLeftoverInternal">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.69,-682.79C246.93,-679.3 263.79,-675.32 279.42,-671 312.09,-661.97 347.86,-649.67 376.79,-639.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="377.73,-642.47 385.9,-635.72 375.31,-635.9 377.73,-642.47" style=""/>
+</g>
+<!-- C2NSale.withdrawEarnings -->
+<g id="node21" class="node" pointer-events="visible" data-name="C2NSale.withdrawEarnings">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-1022" rx="81.67" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-1017.8" font-family="Times,serif" font-size="14.00" style="">withdrawEarnings</text>
+</g>
+<!-- C2NSale.withdrawEarnings&#45;&gt;C2NSale.withdrawEarningsInternal -->
+<g id="edge14" class="edge" data-name="C2NSale.withdrawEarnings-&gt;C2NSale.withdrawEarningsInternal">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.13,-1017.1C246.32,-1013 264.63,-1006.17 279.42,-995 369.56,-926.92 412.1,-791.16 427.37,-729.62" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="430.69,-730.82 429.6,-720.28 423.88,-729.19 430.69,-730.82" style=""/>
+</g>
+<!-- C2NSale.withdrawLeftover -->
+<g id="node22" class="node" pointer-events="visible" data-name="C2NSale.withdrawLeftover">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-590" rx="80.51" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-585.8" font-family="Times,serif" font-size="14.00" style="">withdrawLeftover</text>
+</g>
+<!-- C2NSale.withdrawLeftover&#45;&gt;C2NSale.withdrawLeftoverInternal -->
+<g id="edge15" class="edge" data-name="C2NSale.withdrawLeftover-&gt;C2NSale.withdrawLeftoverInternal">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.75,-597.09C254.38,-599.99 290.43,-603.4 323.96,-606.57" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="323.37,-610.03 333.65,-607.48 324.03,-603.06 323.37,-610.03" style=""/>
+</g>
+<!-- C2NSale.withdrawEarningsInternal&#45;&gt;C2NSale.safeTransferETH -->
+<g id="edge16" class="edge" data-name="C2NSale.withdrawEarningsInternal-&gt;C2NSale.safeTransferETH">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M535.29,-688.94C557.01,-686.95 579.86,-684.86 601.05,-682.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="601.35,-686.41 610.99,-682.01 600.72,-679.44 601.35,-686.41" style=""/>
+</g>
+<!-- C2NSale.checkRegistrationSignature&#45;&gt;IAdmin.isAdmin -->
+<g id="edge18" class="edge" data-name="C2NSale.checkRegistrationSignature-&gt;IAdmin.isAdmin">
+
+<path fill="none" stroke="white" stroke-width="2" d="M456.15,-476.86C482.93,-449.84 530.18,-397.75 555.24,-344 587.87,-274 545.71,-236.38 591.24,-174 603.48,-157.23 622.49,-144.83 640.41,-136.1" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="641.81,-139.3 649.49,-132 638.93,-132.92 641.81,-139.3" style=""/>
+</g>
+<!-- hash.toEthSignedMessageHash -->
+<g id="node40" class="node" pointer-events="visible" data-name="hash.toEthSignedMessageHash">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="934.44" cy="-752" rx="112.34" ry="18" style=""/>
+<text text-anchor="middle" x="934.44" y="-747.8" font-family="Times,serif" font-size="14.00" style="">toEthSignedMessageHash</text>
+</g>
+<!-- C2NSale.checkRegistrationSignature&#45;&gt;hash.toEthSignedMessageHash -->
+<g id="edge17" class="edge" data-name="C2NSale.checkRegistrationSignature-&gt;hash.toEthSignedMessageHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M470.96,-514.43C498.1,-530.7 534.63,-556.96 555.24,-590 595.19,-654.05 532.47,-708.61 591.24,-756 671.03,-820.34 798.69,-796.15 873.46,-773.52" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="874.5,-776.87 883,-770.54 872.41,-770.19 874.5,-776.87" style=""/>
+</g>
+<!-- messageHash.recover -->
+<g id="node41" class="node" pointer-events="visible" data-name="messageHash.recover">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="934.44" cy="-603" rx="39.97" ry="18" style=""/>
+<text text-anchor="middle" x="934.44" y="-598.8" font-family="Times,serif" font-size="14.00" style="">recover</text>
+</g>
+<!-- C2NSale.checkRegistrationSignature&#45;&gt;messageHash.recover -->
+<g id="edge19" class="edge" data-name="C2NSale.checkRegistrationSignature-&gt;messageHash.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M507.82,-511.39C610.15,-533.41 795.75,-573.36 884.12,-592.38" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="883.21,-595.77 893.72,-594.45 884.68,-588.92 883.21,-595.77" style=""/>
+</g>
+<!-- C2NSale.getParticipationSigner -->
+<g id="node27" class="node" pointer-events="visible" data-name="C2NSale.getParticipationSigner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="688.63" cy="-729" rx="97.29" ry="18" style=""/>
+<text text-anchor="middle" x="688.63" y="-724.8" font-family="Times,serif" font-size="14.00" style="">getParticipationSigner</text>
+</g>
+<!-- C2NSale.checkParticipationSignature&#45;&gt;C2NSale.getParticipationSigner -->
+<g id="edge21" class="edge" data-name="C2NSale.checkParticipationSignature-&gt;C2NSale.getParticipationSigner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M529.58,-1036.86C538.84,-1033.08 547.61,-1028.23 555.24,-1022 638.84,-953.72 671.68,-821.41 682.75,-760.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="686.13,-761.73 684.38,-751.28 679.23,-760.54 686.13,-761.73" style=""/>
+</g>
+<!-- C2NSale.checkParticipationSignature&#45;&gt;IAdmin.isAdmin -->
+<g id="edge20" class="edge" data-name="C2NSale.checkParticipationSignature-&gt;IAdmin.isAdmin">
+
+<path fill="none" stroke="white" stroke-width="2" d="M535.3,-1037.96C542.85,-1033.89 549.68,-1028.67 555.24,-1022 615.63,-949.57 542.16,-254.53 591.24,-174 602.1,-156.19 621.01,-143.6 639.23,-135.01" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="640.44,-138.3 648.23,-131.13 637.66,-131.87 640.44,-138.3" style=""/>
+</g>
+<!-- C2NSale.getParticipationSigner&#45;&gt;hash.toEthSignedMessageHash -->
+<g id="edge22" class="edge" data-name="C2NSale.getParticipationSigner-&gt;hash.toEthSignedMessageHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M777.65,-737.3C792,-738.66 807.03,-740.07 821.85,-741.47" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="821.5,-744.96 831.79,-742.41 822.16,-737.99 821.5,-744.96" style=""/>
+</g>
+<!-- C2NSale.getParticipationSigner&#45;&gt;messageHash.recover -->
+<g id="edge23" class="edge" data-name="C2NSale.getParticipationSigner-&gt;messageHash.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M757.99,-715.15C770.27,-711.59 782.73,-707.25 794.02,-702 835.61,-682.66 877.78,-650.61 904.68,-628.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="906.86,-630.97 912.24,-621.84 902.34,-625.62 906.86,-630.97" style=""/>
+</g>
+<!-- C2NSale.getParticipation -->
+<g id="node28" class="node" pointer-events="visible" data-name="C2NSale.getParticipation">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-366" rx="72.36" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-361.8" font-family="Times,serif" font-size="14.00" style="">getParticipation</text>
+</g>
+<!-- C2NSale.getNumberOfRegisteredUsers -->
+<g id="node29" class="node" pointer-events="visible" data-name="C2NSale.getNumberOfRegisteredUsers">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-312" rx="127.91" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-307.8" font-family="Times,serif" font-size="14.00" style="">getNumberOfRegisteredUsers</text>
+</g>
+<!-- C2NSale.getVestingInfo -->
+<g id="node30" class="node" pointer-events="visible" data-name="C2NSale.getVestingInfo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-258" rx="68.93" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-253.8" font-family="Times,serif" font-size="14.00" style="">getVestingInfo</text>
+</g>
+<!-- C2NSale.&lt;Receive Ether&gt; -->
+<g id="node31" class="node" pointer-events="visible" data-name="C2NSale.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="147.71" cy="-204" rx="76.21" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-199.8" font-family="Times,serif" font-size="14.00" style="">&lt;Receive Ether&gt;</text>
+</g>
+<!-- key -->
+<g id="node42" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="212.71,-1671 82.71,-1671 82.71,-1583 212.71,-1583 212.71,-1671" style=""/>
+<text text-anchor="start" x="132.35" y="-1652.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="128.46" y="-1632.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="105.91" y="-1612.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="92.31" y="-1592.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node43" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="462.33,-1671 408.33,-1671 408.33,-1583 462.33,-1583 462.33,-1671" style=""/>
+<text text-anchor="start" x="425.33" y="-1652.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="425.33" y="-1632.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="423.33,-1607 423.33,-1627 448.33,-1627 448.33,-1607 423.33,-1607" style=""/>
+<text text-anchor="start" x="425.33" y="-1612.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="425.33,-1589 425.33,-1605 446.33,-1605 446.33,-1589 425.33,-1589" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge24" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.71,-1657C297.57,-1657 323.69,-1657 409.52,-1657" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="409.3,-1660.5 419.3,-1657 409.3,-1653.5 409.3,-1660.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge25" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M205.71,-1637C297.57,-1637 323.69,-1637 409.52,-1637" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="409.3,-1640.5 419.3,-1637 409.3,-1633.5 409.3,-1640.5" style=""/>
+</g>
+</g>
+</svg>

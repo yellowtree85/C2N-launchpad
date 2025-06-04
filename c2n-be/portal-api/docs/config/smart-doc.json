@@ -1,0 +1,30 @@
+{
+    "outPath": "docs/html",
+    "serverUrl": "http://127.0.0.1:8080",
+    "pathPrefix": "/boba",
+    "projectName": "C2N Launchpad API Docs",
+    "allInOne": true,
+    "createDebugPage": true,
+    "style": "xt256",
+    "showAuthor": true,
+    "sortByTitle": true,
+    "replace": true,
+    "appToken": "ce27a4e37e284ea0bd23c93898a068c6",
+    "debugEnvName": "本地环境",
+    "debugEnvUrl": "http://127.0.0.1:8080",
+    "debugEnvList": [
+        {
+            "name": "本地环境",
+            "url": "http://127.0.0.1:8080"
+        },
+        {
+            "name": "测试环境",
+            "url": "https://brewery.nommale.ml"
+        },
+        {
+            "name": "生产环境",
+            "url": "https://api.nommale.com"
+        }
+    ],
+    "openUrl": "https://docs.nommale.ml/api"
+}
